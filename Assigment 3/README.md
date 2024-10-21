@@ -1,0 +1,1 @@
+In this folder you will find the Exercise 3,
