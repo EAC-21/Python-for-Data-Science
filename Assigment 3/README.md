@@ -1,1 +1,1 @@
-In this folder you will find the Exercise 3,
+In the file above you wil find Exercise 3
