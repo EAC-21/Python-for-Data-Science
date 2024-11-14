@@ -1,10 +1,10 @@
 # 🐍 Python for Data Science Fun Zone
 
-![Python Banner](https://your-image-link.com/python-banner.png)
+![Python Banner](https://www.google.com/imgres?q=python%20banner&imgurl=https%3A%2F%2Fmichaelwashburnjr.com%2Fhubfs%2FImported_Blog_Media%2Fpython.jpg&imgrefurl=https%3A%2F%2Fmichaelwashburnjr.com%2Fblog%2F5-tips-for-writing-better-python&docid=rYG3Y7GeQmLoHM&tbnid=Wzx7CImJNbidBM&vet=12ahUKEwjksc2f0NuJAxUSbKQEHfR3HrIQM3oECBsQAA..i&w=1355&h=598&hcb=2&ved=2ahUKEwjksc2f0NuJAxUSbKQEHfR3HrIQM3oECBsQAA)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
-![Contributors](https://img.shields.io/github/contributors/yourusername/yourrepo)
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
+![GitHub last commit](https://img.shields.io/github/last-commit/EAC-21/Python-for-Data-Science)
+![Contributors](https://img.shields.io/github/contributors/EAC-21/Python-for-Data-Science)
+![License](https://img.shields.io/github/license/EAC-21/Python-for-Data-Science)
 
 Welcome to the **Python for Data Science Fun Zone**! This repository is a treasure trove of exercises, projects, and resources from my journey through the exciting world of data science. Whether you're a fellow student, a data enthusiast, or just here for the memes, there's something for everyone!
 
