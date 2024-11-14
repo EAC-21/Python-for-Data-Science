@@ -34,12 +34,50 @@ Make sure you have the following installed:
 - Python 
 - Jupyter Notebook or JupyterLab
 
+## 🎯 Execution Instructions
+
+To run the assignments:
+
+1. **Open the Jupyter Notebook** of the assignment you wish to run.
+
+   - Start Jupyter Notebook by running:
+
+     ```bash
+     jupyter notebook
+     ```
+
+   - This will open a browser window. Navigate to the assignment folder and open the `.ipynb` file.
+
+2. At the top of the notebook, click on **"Cell"** in the menu bar and select **"Run All"** to execute all cells.
+
+        ___________________________
+       |                           |
+       |       Run All Cells       |
+       |___________________________|
+       |                           |
+       |  ▶ Run All Cells          |
+       |___________________________|
+
+3. The notebook will execute all cells, and the output will be displayed below each cell.
+
+   - **Note**: Ensure all necessary datasets and files are in the correct directories.
+
 ## 📬 Connect with Me
 
 - **Name**: Enric Aletà Cumellas
 - **Email**: [enric.aleta@alumni.esade.edu](mailto:enric.aleta@alumni.esade.edu)
-- **LinkedIn**: [Enric Aletà Cumellas](https://www.linkedin.com/in/enricaletacumellas/)
-- **GitHub**: [EAC-21](https://github.com/EAC-21/Python-for-Data-Science?tab=readme-ov-file#-connect-with-me)
+- **Linkedin**: Enric Aletà Cumellas
+- **GitHub**: EAC-21
+
+        ┌───────────────────────────────────────────┐
+        │  Let's Connect!                           │
+        │                                           │
+        │   📧 Email: enric.aleta@alumni.esade.edu  │
+        │   🌐 GitHub: github.com/EAC-21            │
+        │   💼 LinkedIn: Enric Aletà Cumellas       │
+        └───────────────────────────────────────────┘
+
+*Happy Coding! 🚀*
 
 
 
