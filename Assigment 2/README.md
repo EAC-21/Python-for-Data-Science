@@ -1,4 +1,4 @@
-# 📊 Python for Python 3Data Science Assignment - Session 2
+# 📊 Python Data Science Assignment - Session 2
 
 Welcome to **Session 2** of our Data Science course! In this session, we build on basic Python skills and explore more advanced data handling techniques.
 
